@@ -1,0 +1,73 @@
+.pp{
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.aa{
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+}
+
+body{
+    background-color: darkgray;
+}
+
+nav{
+    background-color:blue;
+    border-radius: 10px;
+    padding: 10px;
+    border:3px dotted beige;
+}
+
+nav a{
+    margin-left: 27%;
+    padding:10px;
+    color:beige;
+    
+    text-decoration: none;
+}
+
+p{
+    text-align: justify;
+}
+
+h2{
+background-color:blue;
+    border-radius: 10px;
+    padding: 10px;
+    border:3px dotted beige
+}
+
+footer{
+    background-color:blue;
+    border-radius: 27px;
+    padding: 5px;
+    border:3px dotted beige;
+    text-align:center;
+}
+
+
+
+
+
+h1{
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 10px;
+    border:3px dotted blue
+}
+
+.foot{
+    text-align: center;
+}
+
+.apa{
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+}
